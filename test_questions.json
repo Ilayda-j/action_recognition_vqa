@@ -1,0 +1,445 @@
+{
+    "info": {
+        "description": "This is v1.0 of the Nursing Data Annotations Dataset.",
+        "url": "",
+        "version": "1.0",
+        "year": 2024,
+        "contributor": "Ilayda Koca",
+        "date_created": "2024-04-09 12:34"
+    },
+    "license": {
+        "url": "",
+        "name": ""
+    },
+    "data_subtype": "train2024",
+    "tast_type": "Open_Ended",
+    "data_type": "Nursing",
+    "questions": [
+        {
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 11,
+            "image_id": 1
+        },
+        
+        {
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 31,
+            "image_id": 3
+        },
+
+       
+       
+        {
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 131,
+            "image_id": 13
+        },
+        {
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 141,
+            "image_id": 14
+        },{
+            "question": "is this nurse raising the head of the patient bed?",
+            "question_id": 151,
+            "image_id": 15
+        },{
+            "question": "is this nurse raising the head of the patient bed?",
+            "question_id": 161,
+            "image_id": 16
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 171,
+            "image_id": 17
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 181,
+            "image_id": 18
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 231,
+            "image_id": 23
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 241,
+            "image_id": 24
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 251,
+            "image_id": 25
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 261,
+            "image_id": 26
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 271,
+            "image_id": 27
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 281,
+            "image_id": 28
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 291,
+            "image_id": 29
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 301,
+            "image_id": 30
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 311,
+            "image_id": 31
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 321,
+            "image_id": 32
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 331,
+            "image_id": 33
+        },{
+            "question": "is this nurse preparing iv hang medication?",
+            "question_id": 341,
+            "image_id": 34
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 351,
+            "image_id": 35
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 361,
+            "image_id": 36
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 371,
+            "image_id": 37
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 381,
+            "image_id": 38
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 391,
+            "image_id": 39
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 401,
+            "image_id": 40
+        },{
+            "question": "is this nurse having a phone call?",
+            "question_id": 411,
+            "image_id": 41
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 451,
+            "image_id": 45
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 471,
+            "image_id": 47
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 481,
+            "image_id": 48
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 521,
+            "image_id": 52
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 581,
+            "image_id": 58
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 591,
+            "image_id": 59
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 601,
+            "image_id": 60
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 611,
+            "image_id": 61
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 621,
+            "image_id": 62
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 631,
+            "image_id": 63
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 641,
+            "image_id": 64
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 651,
+            "image_id": 65
+        },{
+            "question": "is this nurse administering iv hang medication?",
+            "question_id": 661,
+            "image_id": 66
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 671,
+            "image_id": 67
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 681,
+            "image_id": 68
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 691,
+            "image_id": 69
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 701,
+            "image_id": 70
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 711,
+            "image_id": 71
+        },{
+            "question": "is this nurse rubbing alcohol swab on iv pump?",
+            "question_id": 721,
+            "image_id": 72
+        },
+        {
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2271,
+            "image_id": 227
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2271,
+            "image_id": 227
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2281,
+            "image_id": 228
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2291,
+            "image_id": 229
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2301,
+            "image_id": 230
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2311,
+            "image_id": 231
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2321,
+            "image_id": 232
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2331,
+            "image_id": 233
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2341,
+            "image_id": 234
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2351,
+            "image_id": 235
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2361,
+            "image_id": 236
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2371,
+            "image_id": 237
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2381,
+            "image_id": 238
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2391,
+            "image_id": 239
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2441,
+            "image_id": 244
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2451,
+            "image_id": 245
+        },{
+            "question": "is this nurse putting on latex gloves?",
+            "question_id": 2461,
+            "image_id": 246
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2471,
+            "image_id": 247
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2481,
+            "image_id": 248
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2491,
+            "image_id": 249
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2501,
+            "image_id": 250
+        },{
+            "question": "is this nurse taking the patient's temperature?",
+            "question_id": 2511,
+            "image_id": 251
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2531,
+            "image_id": 253
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2541,
+            "image_id": 254
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2551,
+            "image_id": 255
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2561,
+            "image_id": 256
+        },
+        {
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2601,
+            "image_id": 260
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2611,
+            "image_id": 261
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2641,
+            "image_id": 264
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2651,
+            "image_id": 265
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2661,
+            "image_id": 266
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2671,
+            "image_id": 267
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2681,
+            "image_id": 268
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2691,
+            "image_id": 269
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2701,
+            "image_id": 270
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2711,
+            "image_id": 271
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2721,
+            "image_id": 272
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2731,
+            "image_id": 273
+        },{
+            "question": "is this nurse administering iv push medication?",
+            "question_id": 2741,
+            "image_id": 274
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2751,
+            "image_id": 275
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2761,
+            "image_id": 276
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2771,
+            "image_id": 277
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2781,
+            "image_id": 278
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2811,
+            "image_id": 281
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2821,
+            "image_id": 282
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2831,
+            "image_id": 283
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2841,
+            "image_id": 284
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2851,
+            "image_id": 285
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2861,
+            "image_id": 286
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2871,
+            "image_id": 287
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2881,
+            "image_id": 288
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2891,
+            "image_id": 289
+        },{
+            "question": "is this nurse listening to the patient's chest?",
+            "question_id": 2901,
+            "image_id": 290
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2911,
+            "image_id": 291
+        },{
+            "question": "is this nurse taking the patient's pulse?",
+            "question_id": 2921,
+            "image_id": 292
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 2931,
+            "image_id": 293
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 2941,
+            "image_id": 294
+        },{
+            "question": "is this nurse putting the inhaler on the patient??",
+            "question_id": 2951,
+            "image_id": 295
+        }
+    ]
+}
