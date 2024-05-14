@@ -312,8 +312,7 @@ Nurse administering IV hang medication 0.63
 Nurse taking the patient’s pulse 0.75
 Nurse listening to the patient’s chest 0.77
 Nurse administering IV push medication 0.78
-Table 3: Performance (in terms of Average Precision
-- AP) of the model on different action categories.
+Table 3: Performance (in terms of Average Precision) of the model on different action categories.
 
 The performance of the model varied across differ-
 ent action categories, as shown in Table 3. Several
