@@ -4,7 +4,7 @@
 
 Modern healthcare is predicated on the effective coordination of professionals with diverse skill sets. Simulation-based training (SBT) has emerged as a pivotal element in fostering teamwork among healthcare professionals, particularly nurses. This study leverages a Vision-and-Language (ViLT) based Visual Question Answering (VQA) model,  fine-tuned on human labeled dataset derived from nursing simulation training sessions, to classify actions during nurses' simulation based training. The dataset comprises images labeled across ten classes of nursing actions, including the administration of IV push medication, oral medication, verifying patient vitals such as pulse and heart rate, and maneuvering patient bed positions, among others. Our results demonstrate a significant enhancement in model performance, with the mean average precision (mAP) of action detection increasing from a baseline of 52.7\% to 71.8\% with our fine-tuned ViLT model. This fine-tuning enables the VQA model to identify and categorize key collaborative actions, providing insights into the nuances of nurse collaboration during simulated training exercises. Through this, we aim to contribute to the understanding of nurse collaboration dynamics during training sessions.
 
-## Introduction 
+## 1 Introduction 
 
 The efficacy of healthcare systems hinges on the collaborative efforts of healthcare providers, where nurses play a fundamental role - effective patient care relies on complex interactions and collaborative practices among nursing staff. The advent of simulation-based training (SBT) has marked a significant stride in the pedagogical development of nursing professionals. SBT allows for the recreation of clinical scenarios where nurses can engage in critical tasks, ranging from the mundane to the lifesaving, within a controlled, risk-free setting.
 
@@ -12,7 +12,7 @@ This paper introduces a refined application of the Vision-and-Language Transform
 
 The application of VQA in this context is motivated by the need to provide objective assessments of nursing actions in training simulations. The binary yes/no questions constructed for the model—such as "Is the nurse putting on latex gloves?" or "Is the nurse administering IV push medication?"—are designed to improve the model's prediction accuracy of real-life clinical scenarios. These questions serve as probes to assess the model’s understanding of the visual content, thereby quantifying the presence and accuracy of specific actions.
 
-## Related Work
+## 2 Related Work
 
 he integration of Visual Question Answering (VQA)
 into healthcare simulation training is an intersection
